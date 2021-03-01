@@ -10,7 +10,7 @@ permalink: /about/
 
 ### FAIR, "machine-learning-ready" data
 
-The ELN takes care of converting all files into [FAIR](https://www.go-fair.org/fair-principles/) , standardized, and open formats. In this way, the information will be accessible tens from year of now---and not only until the manufacturer stops supporting the format.
+The ELN takes care of converting all files into [FAIR](https://www.go-fair.org/fair-principles/) , standardized, and open formats. In this way, the information will be accessible tens from year of now---and not only until the manufacturer stops supporting the format. Have a look at the [app registry](https://kjappelbaum.github.io/cheminfo-app-registry/) for the available converters.
 
 With all synthesis or characterization data, we also store rich metadata.
 
@@ -43,6 +43,5 @@ We did not only build the ELN, but more than 150 other libraries which are part 
 - [cheminfo](https://github.com/cheminfo): Cheminformatics tools, like parsers for all kinds of characterization techniques
 - [cheminfo-js](https://github.com/cheminfo-js): Cheminformatics tools
 - [cheminfo-py](https://github.com/cheminfo-py): Webservices, e.g., for PXRD pattern predictiion or topology analysis
-
 
 {% include youtube.html id="SHN07asZaGc" %}
