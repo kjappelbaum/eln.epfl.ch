@@ -43,7 +43,6 @@ The first seminar will focus on the "big picture"
 
 <a href="https://www.dropbox.com/s/f0rbmm5xiiu53i3/20200214_chemical_libraries.pdf?dl=1">Slides</a>
 
-
 ### 1.3.2021: Monoisotopic mass
 
 <a href="https://drive.google.com/file/d/12KwESV79JKUA2fHkHY97Ha46psmPD0bG/view?usp=sharing" target="_blank">Video</a>
@@ -54,6 +53,8 @@ The first seminar will focus on the "big picture"
 - Pubchem lookup.
 
 ### 15.3.2021: Mass spectrometry of polymers
+
+<a href="https://drive.google.com/file/d/1Q7xZeC2vVHdLO6oxI4u1JKqEH8YwyMLY/view?usp=sharing" target="_blank">Video</a>
 
 - Polymer, copolymer, ⍺ and ⍵ end groups.
 - Kendrick chart.
